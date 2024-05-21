@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(191, 221, 223);
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    display: flex;
+    min-height: 80px;
+    background-color: rgb(112, 189, 194);
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.content {
+    padding: 15px;
+}
+
+
+hr {
+    margin: 15px 0 15px 0;
+}
+
